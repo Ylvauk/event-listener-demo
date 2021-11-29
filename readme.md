@@ -4,7 +4,7 @@
 
 Dots is an interactive game with up to 3 levels. In each level, the user has to
 click a moving dot until they reach a certain score, at which point they can
-move on to the next level.
+move on to the next level. Here is a [preview](https://pages.git.generalassemb.ly/esin87/dots-demo/) of what we will be building today. 
 
 ## Prerequisites
 
